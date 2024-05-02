@@ -5,11 +5,11 @@ This is a tiny sketch that lets you control [NeoPixels] over I2C. It was
 originally designed for a project where a [Raspberry Pi] needed to control a
 bunch of LEDs but was busy doing other things.
 
-It's designed for the [Trinket M0] but will probably run on just about anything.
+It's designed for the [ATtiny85] but will probably run on just about anything.
 
 [NeoPixels]: https://www.adafruit.com/category/168
 [Raspberry Pi]: https://www.raspberrypi.org/
-[Trinket M0]: https://www.adafruit.com/product/3500
+[ATtiny85]: https://www.microchip.com/en-us/product/attiny85
 
 Setup
 --------------------------------------------------------------------------------
@@ -17,7 +17,7 @@ Setup
 It's simple!
 
 1. Acquire some sort of board you can program with the Arduino IDE. I suggest a
-   [Trinket M0].
+   [ATtiny85].
 2. Install the [Adafruit NeoPixel Library] by opening your Arduino IDE and going
    to Sketch -> Include Libraries -> Manage Libraries...
 3. verify that `I2C_ADDRESS` is set to a usable value. It defaults to `0x45` but
