@@ -54,6 +54,7 @@ License
 --------------------------------------------------------------------------------
 
 Copyright (c) 2019 [Ben Bleything](mailto:ben@bleything.net)
+
 Modyfied by 2024 [Tomoya723](https://github.com/tomoya723)
 
 Released under the terms of the MIT License; see `LICENSE` for details.
