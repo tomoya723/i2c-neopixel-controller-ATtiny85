@@ -57,8 +57,6 @@ Protocol Reference
 | `0x00`  | None                  | Turns off all of the LEDs               |
 | `0x01`  | 1 byte                | Sets the maximum brightness             |
 | `0x02`  | 4 bytes: LED, R, G, B | Sets the given LED's R, G, and B values |
-| `0x03`  | None                  | Enables color correction                |
-| `0x04`  | None                  | Disables color correction               |
 
 License
 --------------------------------------------------------------------------------
