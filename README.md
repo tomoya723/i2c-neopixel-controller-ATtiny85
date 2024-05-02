@@ -17,7 +17,7 @@ Setup
 It's simple!
 
 1. Acquire some sort of board you can program with the Arduino IDE. I suggest a
-   [ATtiny85] (Clock Internal PLL 16Mhz as ATtiny45/85 Optiboot).
+   [ATtiny85] (Clock Internal PLL 16MHz as ATtiny45/85 Optiboot).
 2. Install the [Adafruit NeoPixel Library] by opening your Arduino IDE and going
    to Sketch -> Include Libraries -> Manage Libraries...
 3. verify that `I2C_ADDRESS` is set to a usable value. It defaults to `0x06` but
