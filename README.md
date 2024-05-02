@@ -1,4 +1,4 @@
-I2C NeoPixel Controller
+I2C NeoPixel Controller for ATtiny85
 ================================================================================
 
 This is a tiny sketch that lets you control [NeoPixels] over I2C. It was
