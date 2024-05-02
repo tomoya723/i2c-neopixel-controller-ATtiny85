@@ -20,10 +20,10 @@ It's simple!
    [ATtiny85].
 2. Install the [Adafruit NeoPixel Library] by opening your Arduino IDE and going
    to Sketch -> Include Libraries -> Manage Libraries...
-3. verify that `I2C_ADDRESS` is set to a usable value. It defaults to `0x45` but
+3. verify that `I2C_ADDRESS` is set to a usable value. It defaults to `0x06` but
    maybe you have a device on that address already?
 4. set `NEOPIXEL_PIN`, `NEOPIXEL_COUNT`, and `NEOPIXEL_TYPE` to match your setup
-5. (optional) configure default values for `colorCorrection` and `brightness`
+5. (optional) configure default values for `brightness`
 6. flash your board!
 
 [Adafruit NeoPixel Library]: https://github.com/adafruit/Adafruit_NeoPixel
